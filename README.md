@@ -1,10 +1,4 @@
 
-# 🧮 Geometry Solution
-
-A C++ library/toolkit for solving geometry and coordinate geometry problems using efficient algorithms and clean architecture.
-
----
-
 ## 💻 Requirements
 
 Before you begin, ensure you have the following tools installed:
@@ -35,8 +29,8 @@ These steps will guide you from cloning the repo to compiling and running your p
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/geometry-solution.git
-cd geometry-solution
+git clone https://github.com/yuvrajkarna2717/cpp_setup.git
+cd cpp_setup
 ```
 
 ### ✅ Step 2: Create the Build Directory
@@ -120,7 +114,7 @@ chmod +x run.sh
 ## 📂 Project Structure
 
 ```
-geometry-solution/
+cpp_setup/
 ├── CMakeLists.txt      # CMake configuration
 ├── main.cpp            # Entry point
 ├── run.sh              # Automate build + run
