@@ -1,0 +1,34 @@
+# Build artifacts
+/build/
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code
+.vscode/*
+!.vscode/settings.json     # Keep project-specific settings
+!.vscode/tasks.json        # Keep build/run tasks
+
+# Workspace files
+*.code-workspace
+
+# Input/Output files (optional)
+output.txt
+# input.txt   # Uncomment if you don't want to track input.txt
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
