@@ -131,7 +131,7 @@ MIT License — free to use, modify, and distribute.
 
 ## 👨‍💻 Author
 
-[Yuvraj Karna](https://github.com/yuvrajkarna27)
+[Yuvraj Karna](https://github.com/yuvrajkarna2717)
 
 ---
 
